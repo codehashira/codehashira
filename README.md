@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on **ERP System for logistic company**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
